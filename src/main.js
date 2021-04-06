@@ -23,6 +23,7 @@ Vue.use(Auth0Plugin, {
 });
 
 
+
 Vue.config.productionTip = false
 
 new Vue({
